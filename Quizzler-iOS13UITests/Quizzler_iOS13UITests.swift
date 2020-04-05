@@ -3,7 +3,6 @@
 //  Quizzler-iOS13UITests
 //
 //  Created by Jan Valentik on 05/04/2020.
-//  Copyright © 2020 The App Brewery. All rights reserved.
 //
 
 import XCTest
